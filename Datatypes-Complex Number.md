@@ -1,7 +1,7 @@
 # 🧮 Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
-To write a.
+To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts
 
 ## 🧠 Algorithm
 1. Read an integer input from the user and assign it to the variable `a` (real part).
