@@ -3,7 +3,7 @@
 ## NAME: Antony Aswin Kumar L
 ## REGISTER NUMBER: 212225040024
 
-## Conditional Statements in Python: Even or Odd Checker
+## Ex:1  Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
@@ -34,7 +34,7 @@ else:
 Thus, the Python program to check whether the given number is **even** or **odd** using if...else statements is executed successfully.
 
 
-## Ex 2: Datatypes-Boolean Expression Evaluation in Python
+## Ex:2 Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -68,3 +68,32 @@ print("d:",d)
 
 ## Result
 Thus,the Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is executed successfully.
+
+
+
+## Ex:3  Datatypes-Character Literal in Python
+
+## 🎯 Aim
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+
+## 🧠 Algorithm
+1. Print the character `'T'`.
+2. Print the character `'a'`.
+
+## 🧾 Program:
+
+```
+ch1='T'
+ch2='a'
+print(ch1)
+print(ch2)
+```
+
+## Output:
+
+<img width="390" height="175" alt="image" src="https://github.com/user-attachments/assets/b9c4597a-3d9f-4f9c-8c75-c7be3a6fdb77" />
+
+
+## Result:
+
+Thus,the Python program that prints the characters 'T' and 'a' using character literals.
