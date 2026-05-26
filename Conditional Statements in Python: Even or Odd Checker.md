@@ -23,7 +23,7 @@ else:
 
 ## Output:
 
-<img width="466" height="61" alt="Screenshot 2026-05-26 110455" src="https://github.com/user-attachments/assets/0228e598-fa69-4966-96ca-2100964eaa8f" />
+<img width="651" height="185" alt="Screenshot 2026-05-26 110859" src="https://github.com/user-attachments/assets/886b0d99-f384-4d1c-a675-7de17db4ba95" />
 
 ## Result:
 Thus, the Python program to check whether the given number is **even** or **odd** using if...else statements is executed successfully.
